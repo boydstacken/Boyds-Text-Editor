@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [// Webpack plugin generating our html file and injectsbundles. 
     new HtmlWebpackPlugin({
       template: './index.html',
-      title: 'Contact Cards'
+      title: 'Text Editor'
     }),
       // Implements custom service worker
       new InjectManifest({
@@ -32,9 +32,9 @@ module.exports = () => {
 new WebpackPwaManifest({
   fingerprints: false,
   inject: true,
-  name: 'Contact Cards',
-  short_name: 'Contact',
-  description: 'Never forget your contacts!',
+  name: 'Text Editor',
+  short_name: 'Text',
+  description: 'Always keep your texts with edits!',
   background_color: '#225ca3',
   theme_color: '#225ca3',
   start_url: './',
