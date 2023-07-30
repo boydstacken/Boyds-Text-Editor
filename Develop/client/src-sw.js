@@ -5,7 +5,7 @@ const { CacheableResponsePlugin } = require("workbox-cacheable-response");
 const { ExpirationPlugin } = require("workbox-expiration");
 const { precacheAndRoute } = require("workbox-precaching/precacheAndRoute");
 
-importScripts('./precache-manifest.js');
+//importScripts('./precache-manifest.js');
 
 precacheAndRoute(self.__WB_MANIFEST);
 
