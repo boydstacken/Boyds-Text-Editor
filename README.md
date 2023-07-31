@@ -22,7 +22,7 @@ Do a npm install in the terminal to get all the npm packages. Get all of the web
 
 ## Usage
 
-Here's a link to the deployed application on herkou: https://drive.google.com/file/d/1_-dHBcFrTgt44eECPXNEXmGxyMkS52xy/view
+Here's a link to the deployed application on herkou: https://enigmatic-wildwood-95935-a95773cfeb87.herokuapp.com/
 
 Once you do an npm install in the terminal to get all the npm packages. Get all of the webpack plugins, manifest, your service worker and other important packages to ensure the aplpication runs successfully.
 
@@ -53,4 +53,5 @@ n/a
 If you have any questions about this Text Editor, please contact boydstacken@icloud.com with any futher inquiries.
 
 ## Deployed Link
-Link to deployed application on herkou: 
+Link to deployed application on herkou: https://enigmatic-wildwood-95935-a95773cfeb87.herokuapp.com/
+
